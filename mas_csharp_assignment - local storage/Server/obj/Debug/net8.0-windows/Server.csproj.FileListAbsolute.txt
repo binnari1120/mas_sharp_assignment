@@ -1,0 +1,66 @@
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\obj\Debug\net8.0-windows\Server.csproj.AssemblyReference.cache
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\obj\Debug\net8.0-windows\server.FormServer.resources
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\bin\Debug\net8.0-windows\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\bin\Debug\net8.0-windows\Common.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\bin\Debug\net8.0-windows\Common.pdb
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\obj\Debug\net8.0-windows\Server.csproj.Up2Date
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Server\obj\Debug\net8.0-windows\ref\Server.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Common.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Common.pdb
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.csproj.AssemblyReference.cache
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.FormServer.resources
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.csproj.Up2Date
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\ref\Server.dll
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Common.dll
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\bin\Debug\net8.0-windows\Common.pdb
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.csproj.AssemblyReference.cache
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.FormServer.resources
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.csproj.Up2Date
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Server\obj\Debug\net8.0-windows\ref\Server.dll

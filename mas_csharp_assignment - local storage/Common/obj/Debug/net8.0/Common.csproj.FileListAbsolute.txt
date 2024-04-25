@@ -1,0 +1,33 @@
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Kun\Documents\projects\personal\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Kun\Desktop\assignment\mas_csharp_assignment - local storage\Common\obj\Debug\net8.0\ref\Common.dll
